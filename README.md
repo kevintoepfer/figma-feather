@@ -6,5 +6,5 @@
 
 ## Use in Figma
 
-- Download the latest .fig file from master and import it in Figma
+- Download the [latest .fig file from releases](https://github.com/kevintoepfer/figma-feather/releases/latest) and import it in Figma
 - **OR** get a copy directly from the [Figma Community](https://www.figma.com/community/file/1136584427037439679)
