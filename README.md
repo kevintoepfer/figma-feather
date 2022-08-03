@@ -8,3 +8,8 @@
 
 - Download the [latest .fig file from releases](https://github.com/kevintoepfer/figma-feather/releases/latest) and import it in Figma
 - **OR** get a copy directly from the [Figma Community](https://www.figma.com/community/file/1136584427037439679)
+
+## License
+
+Feather is licensed under the [MIT License](https://github.com/colebemis/feather/blob/master/LICENSE).
+Feather Icons for Figma is licensed under the [MIT Licence](https://github.com/kevintoepfer/figma-feather/blob/master/LICENSE).
